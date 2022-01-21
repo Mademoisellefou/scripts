@@ -167,3 +167,4 @@ void loop(){
   mostrarnumero(contador);
   
 }
+//https://www.tinkercad.com/things/fGpujH0CM0x-super-albar/editel?sharecode=PVRp5mp_tozZwiQ_JihIf1gfN6tGrLqWZhyGWbxRSTg&sharecode=PVRp5mp_tozZwiQ_JihIf1gfN6tGrLqWZhyGWbxRSTg
